@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  InciosSwiftUI
 //
-//  Created by ADMIN on 10/10/23.
+//  Created by Teodoro Calle Lara on 10/10/23.
 //
 
 import SwiftUI
